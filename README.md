@@ -16,4 +16,4 @@ In this Project I have used Javascript with the object oriented style where i ha
 
 ## GitHub Pages
 
-Link to the Project:
+Link to the Project: https://shehraan2008.github.io/Plinko/
